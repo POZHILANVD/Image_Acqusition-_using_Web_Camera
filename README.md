@@ -43,7 +43,7 @@ Stop the webcam and close all windows when the user presses ‘q’.
 
 ## i) Write the frame as JPG file
 ```python
-##Developee By: POZHILAN V D
+##Developed By: POZHILAN V D
 ##Reg No: 212223240118
 import cv2
 obj = cv2.VideoCapture(0)
